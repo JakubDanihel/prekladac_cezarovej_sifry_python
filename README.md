@@ -1,0 +1,2 @@
+# prekladac_cezarovej_sifry_python
+Jednoduchy prekladac cezarovej sifry
